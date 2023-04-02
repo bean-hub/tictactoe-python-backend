@@ -5,7 +5,7 @@ Type 1-9 to mark the corresponding space with an X or an O, depending on if you 
 
 Features:
 2 Players, 
-Win Detection horizontally, vertically and diagonally. 
+Win Detection horizontally, vertically and diagonally,  
 Draw Detection, 
 Protection against overriding already filled spaces, 
 Outputs grids to see the game in real time
